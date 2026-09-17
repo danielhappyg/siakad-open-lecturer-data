@@ -2,9 +2,10 @@
 
 Throwaway Kaprodi mockup for SIAKAD Direktori Dosen (presentation build).
 
-## Live preview
+## Links
 
-The `prototype/` folder is a static HTML click-through. After Vercel deploy, open the production URL and hard-refresh if assets look stale.
+- GitHub: https://github.com/danielhappyg/siakad-open-lecturer-data
+- Live: https://ueu-open-lecturer-data-danielhappyg.vercel.app
 
 ## Local
 

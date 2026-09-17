@@ -1,5 +1,7 @@
 .DS_Store
 .vercel
+.vercel-args.json
+.deploy-*
 .env
 .env.*
 !.env.example
