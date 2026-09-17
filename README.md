@@ -5,7 +5,7 @@ Throwaway Kaprodi mockup for SIAKAD Direktori Dosen (presentation build).
 ## Links
 
 - GitHub: https://github.com/danielhappyg/siakad-open-lecturer-data
-- Live: https://ueu-open-lecturer-data-danielhappyg.vercel.app
+- Live (Vercel): import this repo in the Vercel dashboard with Root Directory `prototype`, then turn off Deployment Protection / Vercel Authentication so the room can open it without a Vercel login
 
 ## Local
 
